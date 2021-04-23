@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=num1\ num2\ num3
+comment1.target=int\ obtenerMayor(int,\ int,\ int)
+comment2.params=base\ altura
+comment2.target=double\ area(double,\ double)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ distancia(double,\ double,\ double,\ double)
+comment4.params=x\ y
+comment4.target=java.lang.String\ obtenerCuadrante(int,\ int)
+numComments=5
